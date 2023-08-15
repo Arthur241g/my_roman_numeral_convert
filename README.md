@@ -1,19 +1,20 @@
 # Welcome to My Roman Numerals Converter
 ***
+WELCOME TO MY RUBY ROMAN_NUMERAL_CONVERTER
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+THE PROBLEM IS TO MANAGED THE CONVERSION TYPE BETWEEN THE INTEGERS TYPE NUMBER AND THE STRINGS NUMBERS ROMANS
 
 ## Description
-TODO - How have you solved the problem?
+JUST IN SEARCHING DIFFERENT SOLUTION IN THE WEB AND IN WATCHING ONE FILE PF OLD STUDENT OF QWASAR INLINE
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+FOR THIS PROJECT WE HAVEN'T NEED AN INSTALLATION
 
 ## Usage
-TODO - How does it work?
+THIS SECTION CONTENT JUST :
 ```
-./my_project argument1 argument2
+./my_project ex00
 ```
 
 ### The Core Team
